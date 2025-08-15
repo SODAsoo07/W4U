@@ -1,0 +1,6 @@
+OS 	: Windows 10 64 bit
+CPU 	: Core2Duo 2.40 GHz
+メモリ 	: 4 GB
+
+開発ソフト
+Microsoft Visual C++ 2010
